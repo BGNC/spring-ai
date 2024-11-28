@@ -46,3 +46,9 @@ This project leverages the power of OpenAI's ChatGPT API to provide three core f
   - **Gluten-containing**
 - Perfect for meal planning or exploring new cuisines.
 
+## Recipe UI 
+
+
+<img width="1440" alt="Screenshot 2024-11-29 at 02 05 17" src="https://github.com/user-attachments/assets/f4ef29f1-e2ee-4fa4-8fa4-2a71870d7c35">
+<img width="1411" alt="Screenshot 2024-11-29 at 02 09 39" src="https://github.com/user-attachments/assets/d72f7c27-9fda-49f0-a507-07ae84362eeb">
+<img width="1269" alt="Screenshot 2024-11-29 at 02 10 14" src="https://github.com/user-attachments/assets/41c1c52e-135e-4e87-bb5d-98a9d83e6385">
