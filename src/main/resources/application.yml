@@ -3,7 +3,7 @@ spring:
     name: spring-ai
   ai:
     openai:
-      api-key: ${OPEN_API_YOUR_KEY}
+      api-key: "set-this-in-your-env"
 
 server:
   port: 8088
