@@ -3,7 +3,7 @@ spring:
     name: spring-ai
   ai:
     openai:
-      api-key: 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
+      api-key: ${OPEN_API_YOUR_KEY}
 
 server:
   port: 8088
